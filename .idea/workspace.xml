@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77f09b38-a120-472e-9c86-111c58e3bbce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\01.Programme\maven\maven-repository" />
+        <option name="mavenHome" value="D:/01.Programme/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\01.Programme\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dqOfOY1CEAoIZArWw0GQXY2XRi" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.UnsafeBank">
+    <configuration name="LightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yipingnai.base.communication.LightDemo" />
+      <module name="ThreadStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yipingnai.base.communication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yipingnai.base.communication.PipeDemo" />
+      <module name="ThreadStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yipingnai.base.communication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yipingnai.base.pool.PoolTest" />
+      <module name="ThreadStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yipingnai.base.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnSafeTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yipingnai.base.syn.UnSafeTicket" />
+      <module name="ThreadStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yipingnai.base.syn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsafeBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yipingnai.base.syn.UnsafeBank" />
+      <module name="ThreadStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yipingnai.base.syn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnsafeBank" />
+        <item itemvalue="Application.UnSafeTicket" />
+        <item itemvalue="Application.PoolTest" />
+        <item itemvalue="Application.LightDemo" />
+        <item itemvalue="Application.PipeDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77f09b38-a120-472e-9c86-111c58e3bbce" name="Default Changelist" comment="" />
+      <created>1593149259033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593149259033</updated>
+      <workItem from="1593149261826" duration="5978000" />
+      <workItem from="1593218603797" duration="13000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1593238847553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593238847553" />
+    <state width="1262" height="55" key="GridCell.Tab.0.bottom" timestamp="1593239201434">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1264" height="113" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593238931942" />
+    <state width="1262" height="55" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593239201434" />
+    <state width="1262" height="55" key="GridCell.Tab.0.center" timestamp="1593239201433">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1264" height="113" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593238931942" />
+    <state width="1262" height="55" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593239201433" />
+    <state width="1262" height="55" key="GridCell.Tab.0.left" timestamp="1593239201433">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1264" height="113" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593238931942" />
+    <state width="1262" height="55" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593239201433" />
+    <state width="1262" height="55" key="GridCell.Tab.0.right" timestamp="1593239201433">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1264" height="113" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593238931942" />
+    <state width="1262" height="55" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593239201433" />
+    <state width="1264" height="249" key="GridCell.Tab.1.bottom" timestamp="1593237037150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593237037150" />
+    <state width="1264" height="249" key="GridCell.Tab.1.center" timestamp="1593237037150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="249" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593237037150" />
+    <state width="1264" height="249" key="GridCell.Tab.1.left" timestamp="1593237037149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="249" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593237037149" />
+    <state width="1264" height="249" key="GridCell.Tab.1.right" timestamp="1593237037150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1264" height="249" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593237037150" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1593224690239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1593224690239" />
+  </component>
+</project>
